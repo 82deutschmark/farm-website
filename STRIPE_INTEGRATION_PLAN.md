@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-Add Stripe payment processing to the farm website so customers can purchase eggs online. This implementation reuses proven patterns from the ModelCompare project (`/mnt/d/1Projects/ModelCompare/`) which has a complete, tested Stripe integration including:
+Add Stripe payment processing to the farm website so customers can purchase eggs online. This implementation reuses proven patterns from the ModelCompare project (`C:\Projects\ModelCompare`) which has a complete, tested Stripe integration including:
 - Google OAuth authentication
 - Credit system (for our case: egg inventory/cart)
 - Stripe payment processing with webhook handling
